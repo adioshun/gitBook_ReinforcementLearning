@@ -6,7 +6,7 @@
 
 ## 2. Paper
 
-
+- [Reinforcement Learning: An Introduction](https://drive.google.com/file/d/1HGoZQjIb-VWQNfQTSFp3jkLt5eIvtQQU/view)
 
 ## 3. Article (Post, blog, etc.)
 
